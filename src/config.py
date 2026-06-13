@@ -1,0 +1,11 @@
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parents[1]
+
+DATA_DIR = BASE_DIR / "data"
+RAW_DIR = DATA_DIR / "raw"
+PROCESSED_DIR = DATA_DIR / "processed"
+OUTPUTS_DIR = BASE_DIR / "outputs"
+
+RAW_FILE = RAW_DIR / "respostas_google_forms.csv"
+PROCESSED_FILE = PROCESSED_DIR / "respostas_tratadas.csv"
