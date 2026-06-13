@@ -97,8 +97,8 @@ Por fim, uma parcela significativa dos participantes afirmou já ter feito algum
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/Igor-Barross/projeto-extensao-microcontroladores.git
+cd projeto-extensao-microcontroladores
 ```
 
 ### 2. Criar e ativar um ambiente virtual
@@ -143,7 +143,7 @@ Os resultados deste projeto podem servir de base para ações futuras de extens�
 
 ## Evidências
 
-As evidências do projeto incluem prints do formulário utilizado, divulgação da pesquisa em rede social, registros das respostas coletadas, gráficos gerados na análise e organização do repositório no GitHub.
+* [ ] As evidências do projeto incluem prints do formulário utilizado, divulgação da pesquisa em rede social, registros das respostas coletadas, gráficos gerados na análise e organização do repositório no GitHub.
 
 ## Autor
 
